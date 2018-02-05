@@ -1,0 +1,12 @@
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\bin\Release\TurboTwitter.exe.config
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\bin\Release\TurboTwitter.exe
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\bin\Release\TurboTwitter.pdb
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.Form1.resources
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.Properties.Resources.resources
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.csproj.GenerateResource.Cache
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.exe
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.pdb
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.csprojResolveAssemblyReference.cache
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.multi.resources
+C:\Users\dane\documents\visual studio 2017\Projects\TurboTwitter\TurboTwitter\obj\Release\TurboTwitter.single.resources
